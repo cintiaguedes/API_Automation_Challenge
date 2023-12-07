@@ -1,6 +1,4 @@
-Certainly! Below is an example `README.md` file for your Behave project. You can customize it based on your project's specific details.
 
-```markdown
 # API Test Automation with Behave
 
 This project contains automated tests for API endpoints using Behave, a BDD (Behavior-Driven Development) framework for Python.
